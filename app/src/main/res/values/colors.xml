@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Black and White for basic contrast -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Shades of Red Tomato -->
+    <color name="red_tomato_light">#FFFFA07A</color>
+    <color name="red_tomato">#FFFF6347</color>
+    <color name="red_tomato_dark">#FFCD5C5C</color>
+    <color name="red_tomato_darker">#FF8B0000</color>
+
+    <!-- Shades of Green Apple -->
+    <color name="green_apple_light">#FFADFF2F</color>
+    <color name="green_apple">#FF8DB600</color>
+    <color name="green_apple_dark">#FF556B2F</color>
+    <color name="green_apple_darker">#FF228B22</color>
+</resources>
