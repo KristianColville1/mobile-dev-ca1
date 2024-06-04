@@ -3,6 +3,7 @@
     <style name="Base.Theme.CA1_Mobile_Dev" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/japser</item>
     </style>
 
     <style name="Theme.CA1_Mobile_Dev" parent="Base.Theme.CA1_Mobile_Dev" />
